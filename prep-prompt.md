@@ -14,7 +14,7 @@ Copy and paste this entire block into Claude:
 I'm preparing for a BuildFirst workshop where I'll learn to build AI tools. I need to:
 
 1. Make sure I have Claude Pro ($20/month) — I should already be using it if I'm talking to you
-2. Install Claude Code ($20/month) — this is a terminal tool for building more sophisticated things
+2. Install Claude Code — this is a terminal tool for building more sophisticated things
 3. Create a GitHub account (free) — this is where I'll access the workshop materials
 4. Download Wispr Flow — this lets me talk instead of type
 
